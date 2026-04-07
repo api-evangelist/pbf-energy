@@ -1,7 +1,12 @@
 aid: pbf-energy
-url: https://raw.githubusercontent.com/api-evangelist/pbf-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pbf-energy/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.pbf-energy.com
+description: >-
+  PBF Energy is one of the largest independent petroleum refiners and suppliers of
+  unbranded transportation fuels, heating oils, lubricants, petrochemical feedstocks,
+  and other petroleum products in the United States.
