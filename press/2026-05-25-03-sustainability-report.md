@@ -1,7 +1,9 @@
 ---
 title: SUSTAINABILITY REPORT
 url: https://www.pbfenergy.com/wp-content/uploads/2025/09/2024-PBF-Sustainability-Report.pdf
-date: '2026-05-25'
+published: '2025-09-20'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"PBF Energy" press release artificial intelligence'
 position: 3
 source: serpapi-google
